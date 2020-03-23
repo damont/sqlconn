@@ -1,0 +1,24 @@
+{
+    "credentials":
+    {
+        "postgresql+psycopg2":
+        {
+            "username": null,
+            "password": null
+        },
+        "mssql":
+        {
+            "username": null,
+            "password": null
+        },
+        "snowflake":
+        {
+            "username": null,
+            "password": null
+        }
+    },
+    "databases":
+    {
+
+    }
+}
